@@ -2,7 +2,7 @@
 
 This is a simple real-time chart that demonstrates how to use Chart.js to create a line chart that updates in real time.
 
-###Hosted link: https://dakshayini1.github.io/Dynamic/
+### Hosted link: https://dakshayini1.github.io/Dynamic/
 
 ### Prerequisites
 
